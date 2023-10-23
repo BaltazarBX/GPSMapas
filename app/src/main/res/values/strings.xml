@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GPSMapas</string>
+    <string name="txt_latitud"></string>
+    <string name="txt_longitud"></string>
+</resources>
